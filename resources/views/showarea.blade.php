@@ -1,0 +1,1 @@
+El área es: {{$area}}
